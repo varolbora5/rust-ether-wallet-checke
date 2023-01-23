@@ -12,3 +12,4 @@ web3 = "0.18.0"
 tokio = { version= "1", features = ["full"] }
 secp256k1 = "0.25.0"
 wagyu-model = "0.6.3"
+hex = "0.4.3"
